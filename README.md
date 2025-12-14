@@ -6,7 +6,7 @@
   git add . it's means all of file change
 
   ```
-  git add main.c
+  git add index.py
   ```
   select to added one file
 
